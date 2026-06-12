@@ -24,6 +24,9 @@ pip install pandas
 | Highest Salary | พนักงานเงินเดือนสูงสุด |
 | Employee Count | จำนวนพนักงานแต่ละแผนก |
 
+## ✅ รองรับข้อมูลได้ไม่จำกัดจำนวนแถว
+## ✅ ทดสอบกับข้อมูลจริงแล้ว
+
 ## Tech Stack
 - Python 3
 - pandas
